@@ -35,18 +35,23 @@ Some ways to avoid runtime errors:
 
 # Acceptable Runtimes
 The table below is to help understand the growth of several common time complexities, 
-and thus help judge if the algorithm is fast enough to get an Accepted ( assuming the algorithm is correct ).
-Length of Input (N) | Worst Accepted Algorithm
-------------------- | ------------------------
-<= [10..11] | O(N!), O(N<sup>6</sup>)
-<= [15..18] | O(2<sup>N</sup> * N<sup>2</sup>)
-<= [18..22] | O(2<sup>N</sup> * N)
-<= 100 | O(N<sup>4</sup>)
-<= 400 | O(N<sup>3</sup>)
-<= 2k | O(N<sup>2</sup> * logN)
-<= 10k | O(N<sup>2</sup>)
-<= 1M | O(N * logN)
-<= 100M | O(N), O(logN), O(1)
+and thus help judge if the algorithm is fast enough to get an Accepted (assuming the algorithm is correct).
+<table>
+    <head>
+        <tr>
+        <th> Length of Input (N) </th><th> Worst Accepted Algorithm</th>
+        </tr>
+    </head>
+    <tr><td> <= [10..11] </td><td> O(N!), O(N<sup>6</sup>)</td></tr>
+    <tr><td> <= [15..18] </td><td> O(2<sup>N</sup> * N<sup>2</sup>)</td></tr>
+    <tr><td> <= [18..22] </td><td> O(2<sup>N</sup> * N)</td></tr>
+    <tr><td> <= 100 </td><td> O(N<sup>4</sup>)</td></tr>
+    <tr><td> <= 400 </td><td> O(N<sup>3</sup>)</td></tr>
+    <tr><td> <= 2k </td><td> O(N<sup>2</sup> * logN)</td></tr>
+    <tr><td> <= 10k </td><td> O(N<sup>2</sup>)</td></tr>
+    <tr><td> <= 1M </td><td> O(N * logN)</td></tr>
+    <tr><td> <= 100M </td><td> O(N), O(logN), O(1)</td></tr>
+</table>
 
 # Useful Operators
 <table>
