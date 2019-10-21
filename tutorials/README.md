@@ -1,6 +1,12 @@
 # Table of Contents
-1. basics of programming
-    1. [errors, accepted runtimes](01-basics-of-programming/README.md)
-    2. [basics-io (cpp)](01-basics-of-programming/01-basics-io.cpp)
-    3. [count digits in string (cpp)](01-basics-of-programming/02-count-digit-string.cpp)
-    4. [bitwise operations cheatsheet (cpp)](01-basics-of-programming/03-bit-operations-cheatsheet.md)
+1. [basics of programming](01-basics-of-programming)
+    i. [errors, accepted runtimes](01-basics-of-programming/README.md)
+    ii. [basics-io (cpp)](01-basics-of-programming/01-basics-io.cpp)
+    iii. [count digits in string (cpp)](01-basics-of-programming/02-count-digit-string.cpp)
+    iv. [bitwise operations cheatsheet (cpp)](01-basics-of-programming/03-bit-operations-cheatsheet.md)
+    v. [recursion and backtracking (cpp)](01-basics-of-programming/04-recursion-backtracking.cpp)
+2. [arrays and strings](02-arrays-strings)
+    i. [arrays](02-arrays-strings/01-arrays.cpp)
+    ii. [multidimesional arrays](02-arrays-strings/02-transpose.cpp)
+    iii. [sorting substring](02-arrays-strings/03-sort-substring.cpp)
+    iv. [Knuth Morris Pratt string matching (KMP) (cpp)](02-arrays-strings/04-kmp-pattern-matching.cpp)
