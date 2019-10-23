@@ -14,3 +14,9 @@
     1. [bubble sort](03_sorting/bubble_sort.cpp)
     2. [selection sort](03_sorting/selection_sort.cpp)
     3. [insertion sort](03_sorting/insertion_sort.cpp)
+    4. [merge sort](03_sorting/merge_sort.cpp)
+    5. [quick sort](03_sorting/quick_sort.cpp)
+    6. [counting sort](03_sorting/counting_sort.cpp)
+4. [searching](04_searching)
+    1. [linear search](04_searching/linear_search.cpp)
+    
