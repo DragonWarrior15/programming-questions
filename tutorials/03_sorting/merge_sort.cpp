@@ -25,4 +25,6 @@ int main(){
     return 0;
 }
 
-void merge()
+void merge(){
+
+}
