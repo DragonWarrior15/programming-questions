@@ -19,4 +19,5 @@
     6. [counting sort](03_sorting/counting_sort.cpp)
 4. [searching](04_searching)
     1. [linear search](04_searching/linear_search.cpp)
+    1. [binary search](04_searching/binary_search.cpp)
     
