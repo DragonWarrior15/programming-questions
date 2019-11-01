@@ -5,6 +5,23 @@
     rem_x = len([x for x in names[0] if x not in common]) + \
             len([x for x in names[1] if x not in common])
 
+long long fast_exponentiation(long long base, long long exponent){
+    if(exponent == 0){
+        return 1;
+    }
+    long long result = base, multiplier = 1; exponent--;
+    while(exponent > 0){
+        if(exponent%2 == 1){
+            multiplier *= base; multiplier %= divide_by;
+            exponent -= 1;
+        }else{
+            result *= result; result %= divide_by;
+            exponent /= 2;
+        }
+    }
+    return (result * multiplier)%divide_by;
+}
+
 
 # binary exponentiation
 int binaryExponentiation(int x,int n)
