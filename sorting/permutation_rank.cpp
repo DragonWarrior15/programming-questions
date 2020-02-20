@@ -38,13 +38,6 @@ int digit_count(long long N){
     return dc;
 }
 
-void swap(int *arr, int size){
-    int last_digit = arr[size-1], i = size-2;
-    while(1){
-        if()
-    }
-}
-
 void quicksort(int *arr, int start, int end, int size){
     // perform quicksort on a given array
     // check the base case of length 1 or 2
