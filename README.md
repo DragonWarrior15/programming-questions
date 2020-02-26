@@ -1,5 +1,6 @@
-# HackerEarth
-codes for hackerearth challenges and practice problems
+# Programming Questions
+codes for programming challenges and practice problems
+* [Tutorials](tutorials/README.md)
 * [Sorting](sorting)
   * [the best player (cpp) | sorting using two keys](sorting/the_best_player.cpp)
   * [rank of permutation (cpp) | sorting using two keys](sorting/permutation_rank.cpp)
@@ -12,10 +13,13 @@ codes for hackerearth challenges and practice problems
 * [Algorithms](algorithms)
   * [sub rectangle sum (cpp) | O(1) sub sum, image processing](algorithms/subrectangle_sum.cpp)
   * [monty hall problem (cpp)](algorithms/monty_hall.cpp)
+  * [count steps (cpp) | recursion](algorithms/count_steps.cpp)
+  * [array manipulation (cpp) | logic](algorithms/array_modification.cpp)
 * [Miscellaneous](miscellaneous)
   * [fraudulent transactions (cpp) | read the ques carefully](miscellaneous/fraudulent_transactions.cpp)
   * [matching brackets (cpp) | stacks](miscellaneous/matching_candies.cpp)
   * [minimum candies (cpp) | logic](miscellaneous/minimum_candies.cpp)
+  * [recursive sum of digits (cpp) | digit property](miscellaneous/digit_sum.cpp)
 * [Strings](strings)  
   * [strings and maps (cpp)](strings/string_hasmap.cpp)
   * [valid strings (cpp) | corner cases](strings/valid_string.cpp)

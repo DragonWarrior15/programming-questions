@@ -61,34 +61,29 @@ hence, the exercise is simply to update indices in above fashion,
 then calculate prefix sum in O(n) keeping track of max
 */
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main(){
     long long n, m; cin >> n >> m;
-    long long arr[n+2], i, a, b, k, max_idx=0;
-    // initialize to zeros
-    for(i=0; i<=n+1; i++){arr[i] = 0;}
-    for(i=0; i<m; i++){
+    long long i, a, b, k;
+    vector<pair<long long, long long>>arr;
+    while(m--){
         // read the queries
         cin >> a >> b >> k;
         // increment lower by k and decrease upper by k
-        arr[a] += k; arr[b+1] -= k;
-        // keep track of the maximum index modified
-        if(max_idx < b){
-            max_idx = b;
-        }
+        arr.push_back(make_pair(a, k));
+        arr.push_back(make_pair(b + 1, -k));
     }
+    // sort the indices
+    sort(arr.begin(), arr.end());
     // calculate prefix sums
-    long long max = arr[1];
-    for(i=2; i<=max_idx; i++){
-        // calculate sum till current index
-        arr[i] += arr[i-1];
-        // update max accordingly
-        if(arr[i] > max){
-            max = arr[i];
-        }
+    long long max_val = 0, sum = 0;
+    vector<pair<long long, long long>>::iterator itr;
+    for(itr = arr.begin(); itr != arr.end(); itr++){
+        sum += itr->second;
+        max_val = max(max_val, sum);
     }
-    cout << max << endl;
+    cout << max_val << endl;
     return 0;
 }
