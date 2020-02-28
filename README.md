@@ -15,6 +15,8 @@ codes for programming challenges and practice problems
   * [monty hall problem (cpp)](algorithms/monty_hall.cpp)
   * [count steps (cpp) | recursion](algorithms/count_steps.cpp)
   * [array manipulation (cpp) | logic](algorithms/array_modification.cpp)
+  * [primality test (cpp) | O(sqrt(n))](algorithms/primality_test.cpp)
+  * [largest area within a histogram | stacks, O(n)](algorithms/largest_area_histogram.cpp)
 * [Miscellaneous](miscellaneous)
   * [fraudulent transactions (cpp) | read the ques carefully](miscellaneous/fraudulent_transactions.cpp)
   * [matching brackets (cpp) | stacks](miscellaneous/matching_candies.cpp)
@@ -29,4 +31,5 @@ codes for programming challenges and practice problems
   * [sorted soubly linked list (cpp) | extended implementation](data-structures/sorted_doubly_linked_list.cpp)
   * [reverse linked list (cpp)](data-structures/reverse_double_list.cpp)
   * [merge point of linked lists (cpp)](data-structures/merge_point_lists.cpp)
+  * [queue using two stacks (cpp)](data-structures/queue_with_stacks.cpp)
   
