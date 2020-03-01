@@ -22,6 +22,8 @@ codes for programming challenges and practice problems
   * [matching brackets (cpp) | stacks](miscellaneous/matching_candies.cpp)
   * [minimum candies (cpp) | logic](miscellaneous/minimum_candies.cpp)
   * [recursive sum of digits (cpp) | digit property](miscellaneous/digit_sum.cpp)
+  * [search for pairs of numbers (cpp) | maps with linked list](miscellaneous/number_pair_search.cpp)
+  * [search for pairs of numbers (cpp) | two pointers](miscellaneous/number_pair_search_2.cpp)
 * [Strings](strings)  
   * [strings and maps (cpp)](strings/string_hasmap.cpp)
   * [valid strings (cpp) | corner cases](strings/valid_string.cpp)
@@ -32,4 +34,5 @@ codes for programming challenges and practice problems
   * [reverse linked list (cpp)](data-structures/reverse_double_list.cpp)
   * [merge point of linked lists (cpp)](data-structures/merge_point_lists.cpp)
   * [queue using two stacks (cpp)](data-structures/queue_with_stacks.cpp)
+  * [left rotations of array (cpp)](data-structures/array_left_rotation.cpp)
   
