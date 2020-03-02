@@ -24,6 +24,7 @@ codes for programming challenges and practice problems
   * [recursive sum of digits (cpp) | digit property](miscellaneous/digit_sum.cpp)
   * [search for pairs of numbers (cpp) | maps with linked list](miscellaneous/number_pair_search.cpp)
   * [search for pairs of numbers (cpp) | two pointers](miscellaneous/number_pair_search_2.cpp)
+  * [posinous plants (cpp) | stacks, O(n), span](miscellaneous/posinous_plants.cpp)
 * [Strings](strings)  
   * [strings and maps (cpp)](strings/string_hasmap.cpp)
   * [valid strings (cpp) | corner cases](strings/valid_string.cpp)
@@ -35,4 +36,6 @@ codes for programming challenges and practice problems
   * [merge point of linked lists (cpp)](data-structures/merge_point_lists.cpp)
   * [queue using two stacks (cpp)](data-structures/queue_with_stacks.cpp)
   * [left rotations of array (cpp)](data-structures/array_left_rotation.cpp)
+  * [next greatest element in array (cpp) | O(n)](data-structures/next_greatest_element.cpp)
+  * [simple text editor (cpp) | stack](data-structures/simple_text_editor.cpp)
   
