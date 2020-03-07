@@ -17,6 +17,7 @@ codes for programming challenges and practice problems
   * [array manipulation (cpp) | logic](algorithms/array_modification.cpp)
   * [primality test (cpp) | O(sqrt(n))](algorithms/primality_test.cpp)
   * [largest area within a histogram | stacks, O(n)](algorithms/largest_area_histogram.cpp)
+  * [lexicographically next string | string, sorting, logic](algorithms/lexicographic_next_string.cpp)
 * [Miscellaneous](miscellaneous)
   * [fraudulent transactions (cpp) | read the ques carefully](miscellaneous/fraudulent_transactions.cpp)
   * [matching brackets (cpp) | stacks](miscellaneous/matching_candies.cpp)
