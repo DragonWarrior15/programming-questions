@@ -45,6 +45,16 @@ hence the answer now is 1 + max(lcs(aa, a), lcs(a, az))
 we recurse until one of them becomes empty at which point the lcs is 0 and
 this is the trivial case for the problem
 
+the logic of comparing the last character also stems from the fact that if
+we know the lcs for text1 and text2, adding the same character in the end
+will cause the lcs to increase by 1; on the other hand, if the added character
+is different, say c1 and c2, then the lcs is simply the max of the lcs for
+(text1c1, text2) and (text1, text2c2).. we can compare them separately because
+comparing with both the characters attached is same as removing one of them
+at a time since only one can be included in the lcs at most.. this breaking down
+into smaller subsets allows for the problem to be reduced in size and easily
+solvable iteratively/recursively.. the idea is to reduce the problem each time
+
 to actually solve the problem, we look at the string forwards
 so in essence, we will be solving all comparisons between different
 length combinations of the two strings
