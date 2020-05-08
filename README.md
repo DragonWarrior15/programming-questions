@@ -7,20 +7,21 @@ codes for programming challenges and practice problems
   * [minimum swaps to sort (cpp) | arrays](sorting/min_swaps_to_sort.cpp)
   * [correct the inversions (cpp) | merge sort](sorting/correct_the_inversions.cpp)
 * [Dynamic Programming](dynamic-programming)<br>
-  Important Problems<br>
+  Important<br>
   * [coin change (cpp)](dynamic-programming/coin_change.cpp)
   * [maximum sum from non adjacent elements (cpp)](dynamic-programming/non_adjacent_max_sum.cpp)
   * [max subarray | kadane's algorithm (cpp)](dynamic-programming/max_subarray.cpp)
   * [total subsquares of 1s (cpp)](dynamic-programming/total_subsquares.cpp)
   * [longest common subsequence in two strings (cpp)](dynamic-programming/longest_common_subsequence.cpp)
   * [domino and trimino tiling](dynamic-programming/domino_trimino_tiling.cpp)
-  Others<br>
+  <br>Others<br>
   * [non prime sum sequence (cpp)](dynamic-programming/non_prime_sum_sequence.cpp)
   * [house robber | max sum without both adjacent values (cpp)](dynamic-programming/house_robber.cpp)
   * [two keys keyboard | minimum operations, divisors (cpp)](dynamic-programming/two_keys_keyboard.cpp)
   * [bit count of all numbers till n (cpp)](dynamic-programming/bit_count_till_n.cpp)
   * [find all subsequenes in arithmetic progression (cpp)](dynamic-programming/ap_subsequences.cpp)
   * [integer break | maximize the product of breakup of an integer (cpp)](dynamic-programming/integer_break.cpp)
+  * [minimum cost of travel tickets (cpp)](dynamic-programming/min_ticket_cost.cpp)
 * [Algorithms](algorithms)
   * [sub rectangle sum (cpp) | O(1) sub sum, image processing](algorithms/subrectangle_sum.cpp)
   * [sub rectangle sum extended (cpp) | sub rectangle that can go outside the array](algorithms/subrectangle_sum_extended.cpp)
@@ -40,11 +41,11 @@ codes for programming challenges and practice problems
   * [posinous plants (cpp) | stacks, O(n), span](miscellaneous/posinous_plants.cpp)
   * [finding majority element in array, | O(n) (cpp)](miscellaneous/num_appearing_half.cpp)
 * [Strings](strings)<br>
-  Important Problems<br>
+  Important<br>
   * [strings and maps (cpp)](strings/string_hasmap.cpp)
   * [longest palindromic substring (cpp)](strings/longest_palindromic_substring.cpp)
   * [multiply large numbers (cpp)](strings/multiply_string.cpp)
-  Others<br>
+  <br>Others<br>
   * [valid strings (cpp) | corner cases](strings/valid_string.cpp)
   * [special strings (cpp) | traversal logic](strings/special_string.cpp)
 * [Data Structures](data-structures)
@@ -61,3 +62,6 @@ codes for programming challenges and practice problems
   * [maximum depth of binary tree](trees/max_depth.cpp)
   * [range sum in binary search tree](trees/range_sum_bst.cpp)
   * [diameter of a binary tree](trees/diameter_binary_tree.cpp)
+  <br>Others</br>
+  * [postorder traversal for n-ary tree iteratively | logic (cpp)](trees/postorder_iterative.cpp)
+  * [increasing order search tree from binary tree (cpp)](trees/increasing_order_search_tree.cpp)
