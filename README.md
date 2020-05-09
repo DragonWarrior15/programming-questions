@@ -13,6 +13,8 @@ codes for programming challenges and practice problems
   * [max subarray | kadane's algorithm (cpp)](dynamic-programming/max_subarray.cpp)
   * [total subsquares of 1s (cpp)](dynamic-programming/total_subsquares.cpp)
   * [longest common subsequence in two strings (cpp)](dynamic-programming/longest_common_subsequence.cpp)
+  * [longest increasing subsequence (cpp)](dynamic-programming/longest_increasing_subsequence.cpp)
+  * [longest palindromic subsequence (cpp)](dynamic-programming/longest_palindromic_subsequence.cpp)
   * [domino and trimino tiling](dynamic-programming/domino_trimino_tiling.cpp)
   <br>Others<br>
   * [non prime sum sequence (cpp)](dynamic-programming/non_prime_sum_sequence.cpp)
