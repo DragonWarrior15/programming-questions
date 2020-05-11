@@ -35,6 +35,7 @@ codes for programming challenges and practice problems
   * [largest area within a histogram | stacks, O(n)](algorithms/largest_area_histogram.cpp)
   * [lexicographically next string | string, sorting, logic](algorithms/lexicographic_next_string.cpp)
 * [Miscellaneous](miscellaneous)
+  * [2D matrix rotation in place | layers logic](miscellaneous/rotate_2d_matrix.cpp)
   * [fraudulent transactions | read the ques carefully](miscellaneous/fraudulent_transactions.cpp)
   * [matching brackets | stacks](miscellaneous/matching_candies.cpp)
   * [minimum candies | logic](miscellaneous/minimum_candies.cpp)
@@ -57,6 +58,7 @@ codes for programming challenges and practice problems
     * [sorted doubly linked list | extended implementation](data-structures/sorted_doubly_linked_list.cpp)
     * [merge point of linked lists](data-structures/merge_point_lists.cpp)
     * [queue using two stacks](data-structures/queue_with_stacks.cpp)
+    * [flood fill | queue and vector of pairs](data-structures/flood_fill.cpp)
   * Others
     * [linked list | basic implementation](data-structures/linked_list.cpp)
     * [reverse linked list](data-structures/reverse_double_list.cpp)
