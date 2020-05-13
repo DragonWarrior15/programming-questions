@@ -56,16 +56,19 @@ codes for programming challenges and practice problems
   * Important
     * [linked list cycle](data-structures/linked_list_cycle.cpp)
     * [sorted doubly linked list | extended implementation](data-structures/sorted_doubly_linked_list.cpp)
-    * [merge point of linked lists](data-structures/merge_point_lists.cpp)
+    * [merge point of linked lists](data-structures/linked_list_intersection.cpp)
     * [queue using two stacks](data-structures/queue_with_stacks.cpp)
     * [flood fill | queue and vector of pairs](data-structures/flood_fill.cpp)
+    * [delete duplicates in a linked list | logic, trick](data-structures/linked_list_delete_duplicates.cpp)
+    * [reverse linked list | O(1) space, O(1) time](data-structures/linked_list_reverse.cpp)
   * Others
     * [linked list | basic implementation](data-structures/linked_list.cpp)
     * [reverse linked list](data-structures/reverse_double_list.cpp)
     * [left rotations of array](data-structures/array_left_rotation.cpp)
     * [next greatest element in array | O(n)](data-structures/next_greatest_element.cpp)
     * [simple text editor | stack](data-structures/simple_text_editor.cpp)
-    * [rotate linked list](dynamic-programming/rotate_linked_list.cpp)
+    * [rotate linked list](data-structures/rotate_linked_list.cpp)
+    * [palindromic linked list check](data-structures/linked_list_palindrome.cpp)
 * [Trees](trees)
   * Important
     * [maximum depth of binary tree](trees/max_depth.cpp)
