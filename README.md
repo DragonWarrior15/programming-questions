@@ -44,6 +44,7 @@ codes for programming challenges and practice problems
   * [search for pairs of numbers | two pointers](miscellaneous/number_pair_search_2.cpp)
   * [posinous plants | stacks, O(n), span](miscellaneous/posinous_plants.cpp)
   * [finding majority element in array, | O(n)](miscellaneous/num_appearing_half.cpp)
+  * [two city scheduling | greedy, custom sort](miscellaneous/two_city_scheduling.cpp)
 * [Strings](strings)
   * Important
     * [strings and maps](strings/string_hasmap.cpp)
@@ -61,6 +62,8 @@ codes for programming challenges and practice problems
     * [flood fill | queue and vector of pairs](data-structures/flood_fill.cpp)
     * [delete duplicates in a linked list | logic, trick](data-structures/linked_list_delete_duplicates.cpp)
     * [reverse linked list | O(1) space, O(1) time](data-structures/linked_list_reverse.cpp)
+    * [stone smashing game | priority queue, greedy](data-structures/priority_queue_stone_game.cpp)
+    * [reveal deck in increasing order | deque](data-structures/deque_reveal_deck.cpp)
   * Others
     * [linked list | basic implementation](data-structures/linked_list.cpp)
     * [reverse linked list](data-structures/reverse_double_list.cpp)
