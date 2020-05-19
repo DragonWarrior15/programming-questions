@@ -50,9 +50,11 @@ codes for programming challenges and practice problems
     * [strings and maps](strings/string_hasmap.cpp)
     * [longest palindromic substring](strings/longest_palindromic_substring.cpp)
     * [multiply large numbers](strings/multiply_string.cpp)
+    * [letter combinations | implementation](strings/letter_combinations.cpp)
   * Others
     * [valid strings | corner cases](strings/valid_string.cpp)
     * [special strings | traversal logic](strings/special_string.cpp)
+    * [version number comparison | implementation](strings/version_comparison.cpp)
 * [Data Structures](data-structures)
   * Important
     * [linked list cycle](data-structures/linked_list_cycle.cpp)
