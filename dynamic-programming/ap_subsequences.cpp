@@ -27,7 +27,7 @@ return: 3, for 3 arithmetic slices in A: [1, 2, 3], [2, 3, 4] and
 
 /*
 the logic is simply to avoid repeated calculations. suppose we are at an
-index i such that a[i], a[i+1], a[i+2] are arithment, then we create a pointer
+index i such that a[i], a[i+1], a[i+2] are arithmetic, then we create a pointer
 j=i+3 and we keep increasing it till a[j]-a[j-1] = a[i+1]-a[i] which is the
 common difference of an arithmetic progression (ap). then all the numbers with
 indices k, i<=k<j are in the ap. let the count of numbers be k, then the total

@@ -25,6 +25,8 @@ codes for programming challenges and practice problems
     * [find all subsequenes in arithmetic progression](dynamic-programming/ap_subsequences.cpp)
     * [integer break | maximize the product of breakup of an integer](dynamic-programming/integer_break.cpp)
     * [minimum cost of travel tickets](dynamic-programming/min_ticket_cost.cpp)
+    * [jump problem](dynamic-programming/jump_problem.cpp)
+    * [generate all parentheses](dynamic-programming/generate_parentheses.cpp)
 * [Algorithms](algorithms)
   * [sub rectangle sum | O(1) sub sum, image processing](algorithms/subrectangle_sum.cpp)
   * [sub rectangle sum extended | sub rectangle that can go outside the array](algorithms/subrectangle_sum_extended.cpp)
@@ -34,6 +36,8 @@ codes for programming challenges and practice problems
   * [primality test | O(sqrt(n))](algorithms/primality_test.cpp)
   * [largest area within a histogram | stacks, O(n)](algorithms/largest_area_histogram.cpp)
   * [lexicographically next string | string, sorting, logic](algorithms/lexicographic_next_string.cpp)
+  * [Fisher-Yates algorithm for shuffling](fisher_yates.cpp)
+  * [fast exponent | O(log(exponent))](fast_exponent.cpp)
 * [Miscellaneous](miscellaneous)
   * [2D matrix rotation in place | layers logic](miscellaneous/rotate_2d_matrix.cpp)
   * [fraudulent transactions | read the ques carefully](miscellaneous/fraudulent_transactions.cpp)
@@ -45,6 +49,7 @@ codes for programming challenges and practice problems
   * [posinous plants | stacks, O(n), span](miscellaneous/posinous_plants.cpp)
   * [finding majority element in array, | O(n)](miscellaneous/num_appearing_half.cpp)
   * [two city scheduling | greedy, custom sort](miscellaneous/two_city_scheduling.cpp)
+  * [fill matrix with 0 | O(1) space](miscellaneous/matrix_fill_zeros.cpp)
 * [Strings](strings)
   * Important
     * [strings and maps](strings/string_hasmap.cpp)
@@ -66,11 +71,12 @@ codes for programming challenges and practice problems
     * [reverse linked list | O(1) space, O(1) time](data-structures/linked_list_reverse.cpp)
     * [stone smashing game | priority queue, greedy](data-structures/priority_queue_stone_game.cpp)
     * [reveal deck in increasing order | deque](data-structures/deque_reveal_deck.cpp)
+    * [sort by character frequency | map and priority queue](data-structures/sort_by_char_freq.cpp)
+    * [next greatest element in array | O(n)](data-structures/next_greatest_element.cpp)
   * Others
     * [linked list | basic implementation](data-structures/linked_list.cpp)
     * [reverse linked list](data-structures/reverse_double_list.cpp)
     * [left rotations of array](data-structures/array_left_rotation.cpp)
-    * [next greatest element in array | O(n)](data-structures/next_greatest_element.cpp)
     * [simple text editor | stack](data-structures/simple_text_editor.cpp)
     * [rotate linked list](data-structures/rotate_linked_list.cpp)
     * [palindromic linked list check](data-structures/linked_list_palindrome.cpp)
@@ -79,6 +85,15 @@ codes for programming challenges and practice problems
     * [maximum depth of binary tree](trees/max_depth.cpp)
     * [range sum in binary search tree](trees/range_sum_bst.cpp)
     * [diameter of a binary tree](trees/diameter_binary_tree.cpp)
+    * [level order traversal of a binary tree](trees/level_order.cpp)
   * Others
     * [postorder traversal for n-ary tree iteratively | logic](trees/postorder_iterative.cpp)
     * [increasing order search tree from binary tree](trees/increasing_order_search_tree.cpp)
+    * [largest area of island | logic](trees/largest_island.cpp)
+
+* [Graphs](graphs)
+  * Important
+    * [rooms and keys](graphs/room_and_keys.cpp)
+  * Others
+    * [breadth first search](graphs/bfs.cpp)
+    * [depth first search](graphs/dfs.cpp)
