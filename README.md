@@ -1,11 +1,14 @@
 # Programming Questions
+(not actively maintained)
 codes for programming challenges and practice problems
 * [Tutorials](tutorials/README.md)
+
 * [Sorting](sorting)
   * [the best player | sorting using two keys](sorting/the_best_player.cpp)
   * [rank of permutation | sorting using two keys](sorting/permutation_rank.cpp)
   * [minimum swaps to sort | arrays](sorting/min_swaps_to_sort.cpp)
   * [correct the inversions | merge sort](sorting/correct_the_inversions.cpp)
+
 * [Dynamic Programming](dynamic-programming)
   * Important
     * [coin change](dynamic-programming/coin_change.cpp)
@@ -27,6 +30,8 @@ codes for programming challenges and practice problems
     * [minimum cost of travel tickets](dynamic-programming/min_ticket_cost.cpp)
     * [jump problem](dynamic-programming/jump_problem.cpp)
     * [generate all parentheses](dynamic-programming/generate_parentheses.cpp)
+    * [maximum area of square](dynamic-programming/max_square_area.cpp)
+
 * [Algorithms](algorithms)
   * [sub rectangle sum | O(1) sub sum, image processing](algorithms/subrectangle_sum.cpp)
   * [sub rectangle sum extended | sub rectangle that can go outside the array](algorithms/subrectangle_sum_extended.cpp)
@@ -38,6 +43,7 @@ codes for programming challenges and practice problems
   * [lexicographically next string | string, sorting, logic](algorithms/lexicographic_next_string.cpp)
   * [Fisher-Yates algorithm for shuffling](fisher_yates.cpp)
   * [fast exponent | O(log(exponent))](fast_exponent.cpp)
+
 * [Miscellaneous](miscellaneous)
   * [2D matrix rotation in place | layers logic](miscellaneous/rotate_2d_matrix.cpp)
   * [fraudulent transactions | read the ques carefully](miscellaneous/fraudulent_transactions.cpp)
@@ -50,16 +56,22 @@ codes for programming challenges and practice problems
   * [finding majority element in array, | O(n)](miscellaneous/num_appearing_half.cpp)
   * [two city scheduling | greedy, custom sort](miscellaneous/two_city_scheduling.cpp)
   * [fill matrix with 0 | O(1) space](miscellaneous/matrix_fill_zeros.cpp)
+  * [find missing numbers in array | O(n), logic](miscellaneous/find_missing_nos.cpp)
+  * [string partitions | O(n), logic](miscellaneous/string_partitions.cpp)
+  * [falling dominoes | logic](miscellaneous/falling_dominoes.cpp)
+
 * [Strings](strings)
   * Important
     * [strings and maps](strings/string_hasmap.cpp)
     * [longest palindromic substring](strings/longest_palindromic_substring.cpp)
     * [multiply large numbers](strings/multiply_string.cpp)
     * [letter combinations | implementation](strings/letter_combinations.cpp)
+    * [anagram groups | logic](strings/anagram_groups.py)
   * Others
     * [valid strings | corner cases](strings/valid_string.cpp)
     * [special strings | traversal logic](strings/special_string.cpp)
     * [version number comparison | implementation](strings/version_comparison.cpp)
+
 * [Data Structures](data-structures)
   * Important
     * [linked list cycle](data-structures/linked_list_cycle.cpp)
@@ -73,6 +85,7 @@ codes for programming challenges and practice problems
     * [reveal deck in increasing order | deque](data-structures/deque_reveal_deck.cpp)
     * [sort by character frequency | map and priority queue](data-structures/sort_by_char_freq.cpp)
     * [next greatest element in array | O(n)](data-structures/next_greatest_element.cpp)
+    * [decode string | O(n)](data-structures/decode_string.cpp)
   * Others
     * [linked list | basic implementation](data-structures/linked_list.cpp)
     * [reverse linked list](data-structures/reverse_double_list.cpp)
