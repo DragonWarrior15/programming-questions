@@ -59,6 +59,7 @@ codes for programming challenges and practice problems
   * [find missing numbers in array | O(n), logic](miscellaneous/find_missing_nos.cpp)
   * [string partitions | O(n), logic](miscellaneous/string_partitions.cpp)
   * [falling dominoes | logic](miscellaneous/falling_dominoes.cpp)
+  * [product except self | logic](miscellaneous/product_except_self.py)
 
 * [Strings](strings)
   * Important
@@ -66,7 +67,6 @@ codes for programming challenges and practice problems
     * [longest palindromic substring](strings/longest_palindromic_substring.cpp)
     * [multiply large numbers](strings/multiply_string.cpp)
     * [letter combinations | implementation](strings/letter_combinations.cpp)
-    * [anagram groups | logic](strings/anagram_groups.py)
   * Others
     * [valid strings | corner cases](strings/valid_string.cpp)
     * [special strings | traversal logic](strings/special_string.cpp)
@@ -98,11 +98,16 @@ codes for programming challenges and practice problems
     * [maximum depth of binary tree](trees/max_depth.cpp)
     * [range sum in binary search tree](trees/range_sum_bst.cpp)
     * [diameter of a binary tree](trees/diameter_binary_tree.cpp)
-    * [level order traversal of a binary tree](trees/level_order.cpp)
+    * [level order traversal of a binary tree](trees/level_order.cpp), (trees/level_order.py)
+    * [right side view | logic](trees/right_side_view.py)
+    * [binary tree from inorder and preorder traversal](trees/binary_tree_from_preorder_inorder.py)
   * Others
     * [postorder traversal for n-ary tree iteratively | logic](trees/postorder_iterative.cpp)
     * [increasing order search tree from binary tree](trees/increasing_order_search_tree.cpp)
     * [largest area of island | logic](trees/largest_island.cpp)
+    * [same tree | implementation](trees/same_tree.py)
+    * [good nodes](trees/good_nodes.py)
+    * [lowest common ancestor in binary search tree](trees/lca_bst.py)
 
 * [Graphs](graphs)
   * Important
@@ -110,3 +115,11 @@ codes for programming challenges and practice problems
   * Others
     * [breadth first search](graphs/bfs.cpp)
     * [depth first search](graphs/dfs.cpp)
+
+* [Hashmap](hashmap)
+    * [anagram groups | logic](hashmap/anagram_groups.py)
+    * [longest consecutive sequence | logic](hashmap/longest_consecutive_sequence.py)
+
+* [Two Pointers](two_pointers)
+    * [two sum](two_pointers/two_sum.py)
+    * [container with most water](two_pointers/container_with_most_water.py)
