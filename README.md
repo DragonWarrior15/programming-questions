@@ -19,7 +19,6 @@ codes for programming challenges and practice problems
     * [longest increasing subsequence](dynamic-programming/longest_increasing_subsequence.cpp)
     * [longest palindromic subsequence](dynamic-programming/longest_palindromic_subsequence.cpp)
     * [domino and trimino tiling](dynamic-programming/domino_trimino_tiling.cpp)
-    * [longest sequence of unique characters](dynamic-programming/longest_uniq_char_string.cpp)
   * Others
     * [non prime sum sequence](dynamic-programming/non_prime_sum_sequence.cpp)
     * [house robber | max sum without both adjacent values](dynamic-programming/house_robber.cpp)
@@ -41,8 +40,10 @@ codes for programming challenges and practice problems
   * [primality test | O(sqrt(n))](algorithms/primality_test.cpp)
   * [largest area within a histogram | stacks, O(n)](algorithms/largest_area_histogram.cpp)
   * [lexicographically next string | string, sorting, logic](algorithms/lexicographic_next_string.cpp)
-  * [Fisher-Yates algorithm for shuffling](fisher_yates.cpp)
-  * [fast exponent | O(log(exponent))](fast_exponent.cpp)
+  * [Fisher-Yates algorithm for shuffling](algorithms/fisher_yates.cpp)
+  * [fast exponent | O(log(exponent))](algorithms/fast_exponent.cpp)
+  * [Binary Search](algorithms/binary_search.cpp), (algorithms/binary_search.py)
+  * [Binary Search Matrix](algorithms/binary_search_matrix.py)
 
 * [Miscellaneous](miscellaneous)
   * [2D matrix rotation in place | layers logic](miscellaneous/rotate_2d_matrix.cpp)
@@ -60,6 +61,7 @@ codes for programming challenges and practice problems
   * [string partitions | O(n), logic](miscellaneous/string_partitions.cpp)
   * [falling dominoes | logic](miscellaneous/falling_dominoes.cpp)
   * [product except self | logic](miscellaneous/product_except_self.py)
+  * [best time to buy and sell stock](miscellaneous/buy_and_sell.py)
 
 * [Strings](strings)
   * Important
@@ -74,7 +76,7 @@ codes for programming challenges and practice problems
 
 * [Data Structures](data-structures)
   * Important
-    * [linked list cycle](data-structures/linked_list_cycle.cpp)
+    * [linked list cycle](data-structures/linked_list_cycle.cpp), (data-structures/linked_list_cycle.py)
     * [linked list reorder in alternating fashion](data-structures/linked_list_reorder_alternating.py)
     * [sorted doubly linked list | extended implementation](data-structures/sorted_doubly_linked_list.cpp)
     * [merge point of linked lists](data-structures/linked_list_intersection.cpp)
@@ -87,6 +89,7 @@ codes for programming challenges and practice problems
     * [sort by character frequency | map and priority queue](data-structures/sort_by_char_freq.cpp)
     * [next greatest element in array | O(n)](data-structures/next_greatest_element.cpp)
     * [decode string | O(n)](data-structures/decode_string.cpp)
+    * [min stack](data-structures/stack_min.py)
   * Others
     * [linked list | basic implementation](data-structures/linked_list.cpp)
     * [reverse linked list](data-structures/reverse_double_list.cpp)
@@ -94,6 +97,11 @@ codes for programming challenges and practice problems
     * [simple text editor | stack](data-structures/simple_text_editor.cpp)
     * [rotate linked list](data-structures/rotate_linked_list.cpp)
     * [palindromic linked list check](data-structures/linked_list_palindrome.cpp)
+    * [linked list add numbers](data-structures/linked_list_add_nums.py)
+    * [matching brackets](data-structures/matching_brackets.py)
+    * [evaluate reverse polish notation](data-structures/stack_evaluate_reverse_polish_notation.py)
+    * [generate well formed parentheses | brute force](data-structures/stack_generate_parentheses_brute.py)
+
 * [Trees](trees)
   * Important
     * [maximum depth of binary tree](trees/max_depth.cpp)
@@ -120,7 +128,17 @@ codes for programming challenges and practice problems
 * [Hashmap](hashmap)
     * [anagram groups | logic](hashmap/anagram_groups.py)
     * [longest consecutive sequence | logic](hashmap/longest_consecutive_sequence.py)
+    * [longest sequence of unique characters](hashmap/longest_uniq_char_substring.cpp),(hashmap/longest_uniq_char_substring.py)
+    * [Permutation in string](hashmap/permutation_in_string.py)
 
 * [Two Pointers](two_pointers)
     * [two sum](two_pointers/two_sum.py)
     * [container with most water](two_pointers/container_with_most_water.py)
+
+* [Backtracking](backtracking)
+    * [Permutations](backtracking/permutations.py)
+    * [Subsets](backtracking/subsets.py)
+
+* [Bit Manipulation](bit_manipulation)
+    * [Single Number in List](bit_manipulation/single_number.py)
+    * [Set Bits](bit_manipulation/set_bits.py)
