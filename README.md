@@ -30,6 +30,7 @@ codes for programming challenges and practice problems
     * [jump problem](dynamic-programming/jump_problem.cpp)
     * [generate all parentheses](dynamic-programming/generate_parentheses.cpp)
     * [maximum area of square](dynamic-programming/max_square_area.cpp)
+    * [Minimum cost climbing stairs](dynamic-programming/min_cost_climbing_stairs.py)
 
 * [Algorithms](algorithms)
   * [sub rectangle sum | O(1) sub sum, image processing](algorithms/subrectangle_sum.cpp)
@@ -42,8 +43,11 @@ codes for programming challenges and practice problems
   * [lexicographically next string | string, sorting, logic](algorithms/lexicographic_next_string.cpp)
   * [Fisher-Yates algorithm for shuffling](algorithms/fisher_yates.cpp)
   * [fast exponent | O(log(exponent))](algorithms/fast_exponent.cpp)
-  * [Binary Search](algorithms/binary_search.cpp), (algorithms/binary_search.py)
-  * [Binary Search Matrix](algorithms/binary_search_matrix.py)
+
+* [Binary Search](binary_search)
+  * [Binary Search](binary_search/binary_search.cpp), (binary_search/binary_search.py)
+  * [Binary Search Matrix](binary_search/binary_search_matrix.py)
+  * [Koko eating bananas](binary_search/binary_search_koko_bananas.py)
 
 * [Miscellaneous](miscellaneous)
   * [2D matrix rotation in place | layers logic](miscellaneous/rotate_2d_matrix.cpp)
@@ -117,6 +121,7 @@ codes for programming challenges and practice problems
     * [same tree | implementation](trees/same_tree.py)
     * [good nodes](trees/good_nodes.py)
     * [lowest common ancestor in binary search tree](trees/lca_bst.py)
+    * [Balanced Tree](trees/binary_tree_balanced.py)
 
 * [Graphs](graphs)
   * Important
@@ -142,3 +147,6 @@ codes for programming challenges and practice problems
 * [Bit Manipulation](bit_manipulation)
     * [Single Number in List](bit_manipulation/single_number.py)
     * [Set Bits](bit_manipulation/set_bits.py)
+    * [Counting bits of all numbers](bit_manipulation/set_bits_all_numbers.py)
+    * [Bits reverse](bit_manipulation/bits_reverse.py)
+    * [Missing Number](bit_manipulation/missing_number.py)
