@@ -145,6 +145,7 @@ codes for programming challenges and practice problems
 * [Backtracking](backtracking)
     * [Permutations](backtracking/permutations.py)
     * [Subsets](backtracking/subsets.py)
+    * [Combination Sum](backtracking/combination_sum.py)
 
 * [Bit Manipulation](bit_manipulation)
     * [Single Number in List](bit_manipulation/single_number.py)
