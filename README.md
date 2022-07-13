@@ -131,6 +131,7 @@ codes for programming challenges and practice problems
   * Others
     * [breadth first search](graphs/bfs.cpp)
     * [depth first search](graphs/dfs.cpp)
+    * [Count Islands](graphs/count_islands.py)
 
 * [Hashmap](hashmap)
     * [anagram groups | logic](hashmap/anagram_groups.py)
