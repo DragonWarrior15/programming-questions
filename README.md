@@ -132,6 +132,8 @@ codes for programming challenges and practice problems
     * [breadth first search](graphs/bfs.cpp)
     * [depth first search](graphs/dfs.cpp)
     * [Count Islands](graphs/count_islands.py)
+    * [Max Area of Island](graphs/max_area_island.py)
+    * [Graph Deep Copy](graphs/graph_deep_copy.py)
 
 * [Hashmap](hashmap)
     * [anagram groups | logic](hashmap/anagram_groups.py)
