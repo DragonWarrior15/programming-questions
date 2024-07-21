@@ -50,6 +50,7 @@ codes for programming challenges and practice problems
   * [Koko eating bananas](binary_search/binary_search_koko_bananas.py)
   * [Searching in rotated array](binary_search/binary_search_rotated_array.py)
   * [Find minimum in rotate array](binary_search/binary_search_minimum.py)
+  * [search peak element](binary_search/binary_search_peak_element.py)
 
 * [Miscellaneous](miscellaneous)
   * [2D matrix rotation in place | layers logic](miscellaneous/rotate_2d_matrix.cpp)
@@ -114,6 +115,7 @@ codes for programming challenges and practice problems
     * [twin sum in linked list](data_structures/linked_list_twin_sum.py)
     * [decode string](data_structures/stack_decode_string.py)
     * [recent events counter](data_structures/queue_recent_counter.py)
+    * [kth largest element](data_structures/priority_queue_kth_largest_element.py)
 
 * [Trees](trees)
   * Important
