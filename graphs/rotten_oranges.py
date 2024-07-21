@@ -37,6 +37,7 @@ Constraints:
 """
 
 
+# solution 1
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
         """
@@ -100,8 +101,7 @@ class Solution:
                     ):
                         if (
                             grid[row + row_delta][col + col_delta] == 1
-                            and (row + row_delta, col + col_delta)
-                            not in visited
+                            and (row + row_delta, col + col_delta) not in visited
                         ):
                             queue.append(
                                 (
@@ -132,3 +132,78 @@ class Solution:
             max_distance = max(max_distance, distances[k])
 
         return max_distance
+
+
+# solution 2
+class Solution:
+    def orangesRotting(self, grid: List[List[int]]) -> int:
+        m, n = len(grid), len(grid[0])
+        # immediate idea is to do a breadth first traversal
+        # starting from any rotten orange
+        # keep a set of rotten orange at every round of traversal
+        # we only traverse one neighbor at a time
+
+        # queue of rotten oranges that can affect a fresh orange
+        rotten_oranges_active = []
+
+        # a dict of fresh oranges to check if we remain with
+        # any fresh orange at the end
+        fresh_oranges = {}
+
+        # visited nodes
+        visited = {}
+
+        # time elapsed counter
+        time_elapsed = 0
+
+        def is_in_grid(row, col):
+            if 0 <= row and row < m and 0 <= col and col < n:
+                return True
+            return False
+
+        def is_fresh_orange(row, col):
+            if grid[row][col] == 1:
+                return True
+            return False
+
+        def is_rotten_orange(row, col):
+            if grid[row][col] == 2:
+                return True
+            return False
+
+        for row in range(m):
+            for col in range(n):
+                if is_rotten_orange(row, col):
+                    rotten_oranges_active.append((row, col, time_elapsed))
+                    visited[(row, col)] = 1
+                if is_fresh_orange(row, col):
+                    fresh_oranges[(row, col)] = 1
+
+        while rotten_oranges_active:
+            # go through the queue of rotten oranges
+            curr_rotten_orange = rotten_oranges_active.pop(0)
+
+            time_elapsed = max(time_elapsed, curr_rotten_orange[2])
+
+            # dfs around it
+            for row_delta, col_delta in [[0, 1], [0, -1], [1, 0], [-1, 0]]:
+                row, col = (
+                    curr_rotten_orange[0] + row_delta,
+                    curr_rotten_orange[1] + col_delta,
+                )
+                if is_in_grid(row, col):
+                    if (row, col) not in visited:
+                        if is_fresh_orange(row, col):
+                            rotten_oranges_active.append(
+                                (row, col, curr_rotten_orange[2] + 1)
+                            )
+                            # update the grid and dictionaries
+                            del fresh_oranges[(row, col)]
+                            visited[(row, col)] = 1
+                            grid[row][col] = 2
+
+        # if fresh oranges remain, return -1
+        if fresh_oranges:
+            return -1
+
+        return time_elapsed
