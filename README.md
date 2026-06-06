@@ -175,3 +175,9 @@ codes for programming challenges and practice problems
     * [Counting bits of all numbers](bit_manipulation/set_bits_all_numbers.py)
     * [Bits reverse](bit_manipulation/bits_reverse.py)
     * [Missing Number](bit_manipulation/missing_number.py)
+
+* [Stack](stack)
+  * [Sum of min across subarrays](stack/min_for_all_subarrays.py)
+
+* [Recursion](recursion)
+  * [Stone Game II](recursion/stone_game_2.py)
