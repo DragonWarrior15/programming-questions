@@ -34,6 +34,7 @@ codes for programming challenges and practice problems
 
 * [Algorithms](algorithms)
   * [sub rectangle sum | O(1) sub sum, image processing](algorithms/subrectangle_sum.cpp)
+    * [sub rectangle sum variant](algorithms/max_square_side.py)
   * [sub rectangle sum extended | sub rectangle that can go outside the array](algorithms/subrectangle_sum_extended.cpp)
   * [monty hall problem](algorithms/monty_hall.cpp)
   * [count steps | recursion](algorithms/count_steps.cpp)
@@ -177,7 +178,8 @@ codes for programming challenges and practice problems
     * [Missing Number](bit_manipulation/missing_number.py)
 
 * [Stack](stack)
-  * [Sum of min across subarrays](stack/min_for_all_subarrays.py)
+  * Important
+    * [Sum of min across subarrays](stack/min_for_all_subarrays.py)
 
 * [Recursion](recursion)
   * [Stone Game II](recursion/stone_game_2.py)
