@@ -34,6 +34,7 @@ codes for programming challenges and practice problems
 
 * [Algorithms](algorithms)
   * [sub rectangle sum | O(1) sub sum, image processing](algorithms/subrectangle_sum.cpp)
+    * [sub rectangle sum variant](algorithms/max_square_side.py)
   * [sub rectangle sum extended | sub rectangle that can go outside the array](algorithms/subrectangle_sum_extended.cpp)
   * [monty hall problem](algorithms/monty_hall.cpp)
   * [count steps | recursion](algorithms/count_steps.cpp)
@@ -70,6 +71,7 @@ codes for programming challenges and practice problems
   * [product except self | logic](miscellaneous/product_except_self.py)
   * [best time to buy and sell stock](miscellaneous/buy_and_sell.py)
   * [longest subarray after deleting an element](miscellaneous/longest_subarray_after_deleting_one_element.py)
+  * [min moves to make all elements equal](miscellaneous/min_moves_make_array_elems_equal.py)
 
 * [Strings](strings)
   * Important
@@ -168,6 +170,8 @@ codes for programming challenges and practice problems
     * [Permutations](backtracking/permutations.py)
     * [Subsets](backtracking/subsets.py)
     * [Combination Sum](backtracking/combination_sum.py)
+    * [Square from matchsticks](backtracking/matchsticks_to_square.py)
+    * [Smallest sufficient team](backtracking/smallest_sufficient_team.py)
 
 * [Bit Manipulation](bit_manipulation)
     * [Single Number in List](bit_manipulation/single_number.py)
@@ -175,3 +179,10 @@ codes for programming challenges and practice problems
     * [Counting bits of all numbers](bit_manipulation/set_bits_all_numbers.py)
     * [Bits reverse](bit_manipulation/bits_reverse.py)
     * [Missing Number](bit_manipulation/missing_number.py)
+
+* [Stack](stack)
+  * Important
+    * [Sum of min across subarrays](stack/min_for_all_subarrays.py)
+
+* [Recursion](recursion)
+  * [Stone Game II](recursion/stone_game_2.py)
