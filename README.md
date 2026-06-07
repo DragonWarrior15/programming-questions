@@ -71,6 +71,7 @@ codes for programming challenges and practice problems
   * [product except self | logic](miscellaneous/product_except_self.py)
   * [best time to buy and sell stock](miscellaneous/buy_and_sell.py)
   * [longest subarray after deleting an element](miscellaneous/longest_subarray_after_deleting_one_element.py)
+  * [min moves to make all elements equal](miscellaneous/min_moves_make_array_elems_equal.py)
 
 * [Strings](strings)
   * Important
