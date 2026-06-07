@@ -170,6 +170,7 @@ codes for programming challenges and practice problems
     * [Permutations](backtracking/permutations.py)
     * [Subsets](backtracking/subsets.py)
     * [Combination Sum](backtracking/combination_sum.py)
+    * [Square from matchsticks](backtracking/matchsticks_to_square.py)
 
 * [Bit Manipulation](bit_manipulation)
     * [Single Number in List](bit_manipulation/single_number.py)
