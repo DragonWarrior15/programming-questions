@@ -138,6 +138,7 @@ codes for programming challenges and practice problems
     * [good nodes](trees/good_nodes.py)
     * [lowest common ancestor in binary search tree](trees/lca_bst.py)
     * [Balanced Tree](trees/binary_tree_balanced.py)
+    * [Delete nodes and return forest](trees/delete_nodes_and_return_forest.py)
 
 * [Graphs](graphs)
   * Important
