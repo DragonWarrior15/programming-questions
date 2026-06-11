@@ -46,12 +46,15 @@ codes for programming challenges and practice problems
   * [fast exponent | O(log(exponent))](algorithms/fast_exponent.cpp)
 
 * [Binary Search](binary_search)
-  * [Binary Search](binary_search/binary_search.cpp), (binary_search/binary_search.py)
-  * [Binary Search Matrix](binary_search/binary_search_matrix.py)
-  * [Koko eating bananas](binary_search/binary_search_koko_bananas.py)
-  * [Searching in rotated array](binary_search/binary_search_rotated_array.py)
-  * [Find minimum in rotate array](binary_search/binary_search_minimum.py)
-  * [search peak element](binary_search/binary_search_peak_element.py)
+  * Important
+    * [Count Negatives](binary_search/count_negatives.py)
+  * Others
+    * [Binary Search](binary_search/binary_search.cpp), (binary_search/binary_search.py)
+    * [Binary Search Matrix](binary_search/binary_search_matrix.py)
+    * [Koko eating bananas](binary_search/binary_search_koko_bananas.py)
+    * [Searching in rotated array](binary_search/binary_search_rotated_array.py)
+    * [Find minimum in rotate array](binary_search/binary_search_minimum.py)
+    * [search peak element](binary_search/binary_search_peak_element.py)
 
 * [Miscellaneous](miscellaneous)
   * [2D matrix rotation in place | layers logic](miscellaneous/rotate_2d_matrix.cpp)
