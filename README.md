@@ -46,12 +46,16 @@ codes for programming challenges and practice problems
   * [fast exponent | O(log(exponent))](algorithms/fast_exponent.cpp)
 
 * [Binary Search](binary_search)
-  * [Binary Search](binary_search/binary_search.cpp), (binary_search/binary_search.py)
-  * [Binary Search Matrix](binary_search/binary_search_matrix.py)
-  * [Koko eating bananas](binary_search/binary_search_koko_bananas.py)
-  * [Searching in rotated array](binary_search/binary_search_rotated_array.py)
-  * [Find minimum in rotate array](binary_search/binary_search_minimum.py)
-  * [search peak element](binary_search/binary_search_peak_element.py)
+  * Important
+    * [Count Negatives](binary_search/count_negatives.py)
+    * [Avoid Floods](binary_search/avoid_flood.py)
+  * Others
+    * [Binary Search](binary_search/binary_search.cpp), (binary_search/binary_search.py)
+    * [Binary Search Matrix](binary_search/binary_search_matrix.py)
+    * [Koko eating bananas](binary_search/binary_search_koko_bananas.py)
+    * [Searching in rotated array](binary_search/binary_search_rotated_array.py)
+    * [Find minimum in rotate array](binary_search/binary_search_minimum.py)
+    * [search peak element](binary_search/binary_search_peak_element.py)
 
 * [Miscellaneous](miscellaneous)
   * [2D matrix rotation in place | layers logic](miscellaneous/rotate_2d_matrix.cpp)
@@ -138,6 +142,7 @@ codes for programming challenges and practice problems
     * [good nodes](trees/good_nodes.py)
     * [lowest common ancestor in binary search tree](trees/lca_bst.py)
     * [Balanced Tree](trees/binary_tree_balanced.py)
+    * [Delete nodes and return forest](trees/delete_nodes_and_return_forest.py)
 
 * [Graphs](graphs)
   * Important
@@ -186,3 +191,9 @@ codes for programming challenges and practice problems
 
 * [Recursion](recursion)
   * [Stone Game II](recursion/stone_game_2.py)
+
+* [Sliding Window](sliding_window)
+  * [Min Operations to Reduce to Zero](sliding_window/min_operations_reduce_to_zero.py)
+
+* Prefix(prefix)
+  * [Count Plates between Candles](prefix/plates_between_candles.py)
