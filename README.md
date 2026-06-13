@@ -48,6 +48,7 @@ codes for programming challenges and practice problems
 * [Binary Search](binary_search)
   * Important
     * [Count Negatives](binary_search/count_negatives.py)
+    * [Avoid Floods](binary_search/avoid_flood.py)
   * Others
     * [Binary Search](binary_search/binary_search.cpp), (binary_search/binary_search.py)
     * [Binary Search Matrix](binary_search/binary_search_matrix.py)
