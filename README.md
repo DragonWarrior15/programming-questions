@@ -191,3 +191,6 @@ codes for programming challenges and practice problems
 
 * [Recursion](recursion)
   * [Stone Game II](recursion/stone_game_2.py)
+
+* [Sliding Window](sliding_window)
+  * [Min Operations to Reduce to Zero](sliding_window/min_operations_reduce_to_zero.py)
