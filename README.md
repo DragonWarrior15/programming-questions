@@ -194,3 +194,6 @@ codes for programming challenges and practice problems
 
 * [Sliding Window](sliding_window)
   * [Min Operations to Reduce to Zero](sliding_window/min_operations_reduce_to_zero.py)
+
+* Prefix(prefix)
+  * [Count Plates between Candles](prefix/plates_between_candles.py)
