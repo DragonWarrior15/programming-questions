@@ -19,6 +19,7 @@ codes for programming challenges and practice problems
     * [longest increasing subsequence](dynamic_programming/longest_increasing_subsequence.cpp)
     * [longest palindromic subsequence](dynamic_programming/longest_palindromic_subsequence.cpp)
     * [domino and trimino tiling](dynamic_programming/domino_trimino_tiling.cpp)
+    * [Maximum Total Spell Damage](dynamic_programming/maximum_total_spell_damange.py)
   * Others
     * [non prime sum sequence](dynamic_programming/non_prime_sum_sequence.cpp)
     * [house robber | max sum without both adjacent values](dynamic_programming/house_robber.cpp)
