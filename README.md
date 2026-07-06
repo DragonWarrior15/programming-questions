@@ -19,6 +19,7 @@ codes for programming challenges and practice problems
     * [longest increasing subsequence](dynamic_programming/longest_increasing_subsequence.cpp)
     * [longest palindromic subsequence](dynamic_programming/longest_palindromic_subsequence.cpp)
     * [domino and trimino tiling](dynamic_programming/domino_trimino_tiling.cpp)
+    * [Maximum Total Spell Damage](dynamic_programming/maximum_total_spell_damange.py)
   * Others
     * [non prime sum sequence](dynamic_programming/non_prime_sum_sequence.cpp)
     * [house robber | max sum without both adjacent values](dynamic_programming/house_robber.cpp)
@@ -134,6 +135,7 @@ codes for programming challenges and practice problems
     * [longest zigzag path in the tree](trees/longest_zig_zag_path.py)
     * [paths in a tree with given sum](trees/path_sum_list.py)
     * [sub paths in a tree with a given sum](trees/path_sum_subsequence.py)
+    * [Longest univalue path](trees/longest_univalue_path.py)
   * Others
     * [postorder traversal for n-ary tree iteratively | logic](trees/postorder_iterative.cpp)
     * [increasing order search tree from binary tree](trees/increasing_order_search_tree.cpp)
