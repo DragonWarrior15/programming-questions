@@ -105,7 +105,7 @@ Usually `O(n)` time and `O(1)` extra space.
 
 - 125 Valid Palindrome
 - 167 Two Sum II
-- 283 Move Zeroes
+- [283 Move Zeroes](two_pointers/move_zeros.cpp)
 - 15 3Sum
 
 ---

@@ -174,9 +174,11 @@ codes for programming challenges and practice problems
       * [Permutation in string](hashmap/permutation_in_string.py)
 
 * [Two Pointers](two_pointers)
-    * [two sum](two_pointers/two_sum.py)
-    * [container with most water](two_pointers/container_with_most_water.py)
-    * [maximum pairs with k-sum](two_pointers/k_sum_pairs.py)
+    * Important
+      * [two sum](two_pointers/two_sum.py)
+      * [container with most water](two_pointers/container_with_most_water.py)
+      * [maximum pairs with k-sum](two_pointers/k_sum_pairs.py)
+      * [Move Zeros](two_pointers/move_zeros.cpp)
 
 * [Backtracking](backtracking)
     * [Permutations](backtracking/permutations.py)
