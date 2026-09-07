@@ -179,6 +179,7 @@ codes for programming challenges and practice problems
       * [container with most water](two_pointers/container_with_most_water.py)
       * [maximum pairs with k-sum](two_pointers/k_sum_pairs.py)
       * [Move Zeros](two_pointers/move_zeros.cpp)
+      * [3 Sum](two_pointers/three_sum.py)
 
 * [Backtracking](backtracking)
     * [Permutations](backtracking/permutations.py)
