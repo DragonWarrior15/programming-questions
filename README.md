@@ -146,6 +146,7 @@ codes for programming challenges and practice problems
     * [Balanced Tree](trees/binary_tree_balanced.py)
     * [Delete nodes and return forest](trees/delete_nodes_and_return_forest.py)
     * [Tilt Sum across Tree](trees/tilt_sum.py)
+    * [Merge two binary trees](trees/merge_two_binary_trees.py)
 
 * [Graphs](graphs)
   * Important
