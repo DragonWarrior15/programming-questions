@@ -62,7 +62,7 @@ for value in nums:
 - 1 Two Sum
 - 49 Group Anagrams
 - 128 Longest Consecutive Sequence
-- 560 Subarray Sum Equals K
+- [560 Subarray Sum Equals K](hashmap/subarray_sum_equals_k.py)
 
 ---
 

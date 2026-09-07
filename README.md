@@ -165,10 +165,13 @@ codes for programming challenges and practice problems
     * [total provinces in the state](graphs/provinces.py)
 
 * [Hashmap](hashmap)
-    * [anagram groups | logic](hashmap/anagram_groups.py)
-    * [longest consecutive sequence | logic](hashmap/longest_consecutive_sequence.py)
-    * [longest sequence of unique characters](hashmap/longest_uniq_char_substring.cpp),(hashmap/longest_uniq_char_substring.py)
-    * [Permutation in string](hashmap/permutation_in_string.py)
+    * Important
+      * [Subarray sum equals K](hashmap/subarray_sum_equals_k.py)
+    * Others
+      * [anagram groups | logic](hashmap/anagram_groups.py)
+      * [longest consecutive sequence | logic](hashmap/longest_consecutive_sequence.py)
+      * [longest sequence of unique characters](hashmap/longest_uniq_char_substring.cpp),(hashmap/longest_uniq_char_substring.py)
+      * [Permutation in string](hashmap/permutation_in_string.py)
 
 * [Two Pointers](two_pointers)
     * [two sum](two_pointers/two_sum.py)
