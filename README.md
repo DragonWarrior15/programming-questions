@@ -148,6 +148,7 @@ codes for programming challenges and practice problems
     * [Delete nodes and return forest](trees/delete_nodes_and_return_forest.py)
     * [Tilt Sum across Tree](trees/tilt_sum.py)
     * [Merge two binary trees](trees/merge_two_binary_trees.py)
+    * [Ways to order array to get same BST | logic](trees/ways_to_reorder_array_to_get_same_bst.py)
 
 * [Graphs](graphs)
   * Important
