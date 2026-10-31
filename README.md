@@ -195,6 +195,7 @@ codes for programming challenges and practice problems
     * [Bits reverse](bit_manipulation/bits_reverse.py)
     * [Missing Number](bit_manipulation/missing_number.py)
     * [Max k to sort permutation](bit_manipulation/max_k_to_sort_permutation.py)
+    * [Operations to Maximize Sum of Squares](bit_manipulation/operations_to_maximize_sum_of_squares.py)
 
 * [Stack](stack)
   * Important

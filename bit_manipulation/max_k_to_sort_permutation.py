@@ -39,7 +39,7 @@ nums is a permutation of integers from 0 to n - 1.
 
 
 class Solution:
-    def sortPermutation(self, nums: List[int]) -> int:
+    def sortPermutation(self, nums: list[int]) -> int:
         # very difficult to find insight, basically each number that is
         # misplaced, will participate in at least one swap.. meaning the value
         # of k, will come from the common set of set bits across all the
