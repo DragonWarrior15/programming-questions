@@ -202,6 +202,8 @@ codes for programming challenges and practice problems
 * [Stack](stack)
   * Important
     * [Sum of min across subarrays](stack/min_for_all_subarrays.py)
+  * Others
+    * [Exclusive Time of Functions](stack/exclusive_time_of_functions.py)
 
 * [Recursion](recursion)
   * [Stone Game II](recursion/stone_game_2.py)
