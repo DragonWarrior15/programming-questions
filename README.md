@@ -88,6 +88,7 @@ codes for programming challenges and practice problems
     * [valid strings | corner cases](strings/valid_string.cpp)
     * [special strings | traversal logic](strings/special_string.cpp)
     * [version number comparison | implementation](strings/version_comparison.cpp)
+    * [Min Operations to Sort String](strings/min_operations_to_sort_string.py)
 
 * [Data Structures](data_structures)
   * Important
