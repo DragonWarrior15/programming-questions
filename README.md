@@ -169,6 +169,7 @@ codes for programming challenges and practice problems
 * [Hashmap](hashmap)
     * Important
       * [Subarray sum equals K](hashmap/subarray_sum_equals_k.py)
+      * [Hand of Straights | logic](hashmap/hand_of_straights.py)
     * Others
       * [anagram groups | logic](hashmap/anagram_groups.py)
       * [longest consecutive sequence | logic](hashmap/longest_consecutive_sequence.py)
