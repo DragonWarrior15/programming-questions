@@ -51,6 +51,7 @@ codes for programming challenges and practice problems
     * [Count Negatives](binary_search/count_negatives.py)
     * [Avoid Floods](binary_search/avoid_flood.py)
     * [Capacity to Ship Packages within D Days](binary_search/capacity_to_ship_packages_within_fixed_days.py)
+    * [Min Days to Make Bouquets](binary_search/min_days_to_make_bouquets.py)
   * Others
     * [Binary Search](binary_search/binary_search.cpp), (binary_search/binary_search.py)
     * [Binary Search Matrix](binary_search/binary_search_matrix.py)
