@@ -159,6 +159,7 @@ codes for programming challenges and practice problems
     * [Surrounded Regions](graphs/surrounded_regions.py)
     * [Rotten Oranges](graphs/rotten_oranges.py)
     * [reroute edges to city zero](graphs/router_reorder_to_reach_zero.py)
+    * [Find all Recipes from given Supplies](graphs/find_all_recipes_from_given_supplies.py)
   * Others
     * [breadth first search](graphs/bfs.cpp)
     * [depth first search](graphs/dfs.cpp)
