@@ -111,6 +111,7 @@ codes for programming challenges and practice problems
     * [asteriods collision](data_structures/stack_asteriods.py)
     * [odd even linked list](data_structures/linked_list_odd_even.py)
     * [senate voting rounds](data_structures/queue_senate_voting.py)
+    * [Sliding Window Maximum | deque](data_structures/sliding_window_maximum.py)
   * Others
     * [linked list | basic implementation](data_structures/linked_list.cpp)
     * [reverse linked list](data_structures/reverse_double_list.cpp)
