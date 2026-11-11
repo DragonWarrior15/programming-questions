@@ -62,7 +62,7 @@ for value in nums:
 - 1 Two Sum
 - 49 Group Anagrams
 - 128 Longest Consecutive Sequence
-- 560 Subarray Sum Equals K
+- [560 Subarray Sum Equals K](hashmap/subarray_sum_equals_k.py)
 
 ---
 
@@ -105,8 +105,8 @@ Usually `O(n)` time and `O(1)` extra space.
 
 - 125 Valid Palindrome
 - 167 Two Sum II
-- 283 Move Zeroes
-- 15 3Sum
+- [283 Move Zeroes](two_pointers/move_zeros.cpp)
+- [15 3Sum](two_pointers/three_sum.py)
 
 ---
 

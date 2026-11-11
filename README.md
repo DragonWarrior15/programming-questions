@@ -50,6 +50,8 @@ codes for programming challenges and practice problems
   * Important
     * [Count Negatives](binary_search/count_negatives.py)
     * [Avoid Floods](binary_search/avoid_flood.py)
+    * [Capacity to Ship Packages within D Days](binary_search/capacity_to_ship_packages_within_fixed_days.py)
+    * [Min Days to Make Bouquets](binary_search/min_days_to_make_bouquets.py)
   * Others
     * [Binary Search](binary_search/binary_search.cpp), (binary_search/binary_search.py)
     * [Binary Search Matrix](binary_search/binary_search_matrix.py)
@@ -88,6 +90,7 @@ codes for programming challenges and practice problems
     * [valid strings | corner cases](strings/valid_string.cpp)
     * [special strings | traversal logic](strings/special_string.cpp)
     * [version number comparison | implementation](strings/version_comparison.cpp)
+    * [Min Operations to Sort String](strings/min_operations_to_sort_string.py)
 
 * [Data Structures](data_structures)
   * Important
@@ -108,6 +111,7 @@ codes for programming challenges and practice problems
     * [asteriods collision](data_structures/stack_asteriods.py)
     * [odd even linked list](data_structures/linked_list_odd_even.py)
     * [senate voting rounds](data_structures/queue_senate_voting.py)
+    * [Sliding Window Maximum | deque](data_structures/sliding_window_maximum.py)
   * Others
     * [linked list | basic implementation](data_structures/linked_list.cpp)
     * [reverse linked list](data_structures/reverse_double_list.cpp)
@@ -145,6 +149,9 @@ codes for programming challenges and practice problems
     * [lowest common ancestor in binary search tree](trees/lca_bst.py)
     * [Balanced Tree](trees/binary_tree_balanced.py)
     * [Delete nodes and return forest](trees/delete_nodes_and_return_forest.py)
+    * [Tilt Sum across Tree](trees/tilt_sum.py)
+    * [Merge two binary trees](trees/merge_two_binary_trees.py)
+    * [Ways to order array to get same BST | logic](trees/ways_to_reorder_array_to_get_same_bst.py)
 
 * [Graphs](graphs)
   * Important
@@ -153,6 +160,7 @@ codes for programming challenges and practice problems
     * [Surrounded Regions](graphs/surrounded_regions.py)
     * [Rotten Oranges](graphs/rotten_oranges.py)
     * [reroute edges to city zero](graphs/router_reorder_to_reach_zero.py)
+    * [Find all Recipes from given Supplies](graphs/find_all_recipes_from_given_supplies.py)
   * Others
     * [breadth first search](graphs/bfs.cpp)
     * [depth first search](graphs/dfs.cpp)
@@ -163,15 +171,22 @@ codes for programming challenges and practice problems
     * [total provinces in the state](graphs/provinces.py)
 
 * [Hashmap](hashmap)
-    * [anagram groups | logic](hashmap/anagram_groups.py)
-    * [longest consecutive sequence | logic](hashmap/longest_consecutive_sequence.py)
-    * [longest sequence of unique characters](hashmap/longest_uniq_char_substring.cpp),(hashmap/longest_uniq_char_substring.py)
-    * [Permutation in string](hashmap/permutation_in_string.py)
+    * Important
+      * [Subarray sum equals K](hashmap/subarray_sum_equals_k.py)
+      * [Hand of Straights | logic](hashmap/hand_of_straights.py)
+    * Others
+      * [anagram groups | logic](hashmap/anagram_groups.py)
+      * [longest consecutive sequence | logic](hashmap/longest_consecutive_sequence.py)
+      * [longest sequence of unique characters](hashmap/longest_uniq_char_substring.cpp),(hashmap/longest_uniq_char_substring.py)
+      * [Permutation in string](hashmap/permutation_in_string.py)
 
 * [Two Pointers](two_pointers)
-    * [two sum](two_pointers/two_sum.py)
-    * [container with most water](two_pointers/container_with_most_water.py)
-    * [maximum pairs with k-sum](two_pointers/k_sum_pairs.py)
+    * Important
+      * [two sum](two_pointers/two_sum.py)
+      * [container with most water](two_pointers/container_with_most_water.py)
+      * [maximum pairs with k-sum](two_pointers/k_sum_pairs.py)
+      * [Move Zeros](two_pointers/move_zeros.cpp)
+      * [3 Sum](two_pointers/three_sum.py)
 
 * [Backtracking](backtracking)
     * [Permutations](backtracking/permutations.py)
@@ -186,10 +201,15 @@ codes for programming challenges and practice problems
     * [Counting bits of all numbers](bit_manipulation/set_bits_all_numbers.py)
     * [Bits reverse](bit_manipulation/bits_reverse.py)
     * [Missing Number](bit_manipulation/missing_number.py)
+    * [Max k to sort permutation](bit_manipulation/max_k_to_sort_permutation.py)
+    * [Operations to Maximize Sum of Squares](bit_manipulation/operations_to_maximize_sum_of_squares.py)
 
 * [Stack](stack)
   * Important
     * [Sum of min across subarrays](stack/min_for_all_subarrays.py)
+    * [Car Fleet](stack/car_fleet.py)
+  * Others
+    * [Exclusive Time of Functions](stack/exclusive_time_of_functions.py)
 
 * [Recursion](recursion)
   * [Stone Game II](recursion/stone_game_2.py)
@@ -199,3 +219,4 @@ codes for programming challenges and practice problems
 
 * Prefix(prefix)
   * [Count Plates between Candles](prefix/plates_between_candles.py)
+  * [Car Pooling](prefix/car_pooling.py)
