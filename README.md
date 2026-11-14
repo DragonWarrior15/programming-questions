@@ -32,6 +32,7 @@ codes for programming challenges and practice problems
     * [generate all parentheses](dynamic_programming/generate_parentheses.cpp)
     * [maximum area of square](dynamic_programming/max_square_area.cpp)
     * [Minimum cost climbing stairs](dynamic_programming/min_cost_climbing_stairs.py)
+    * [Delete and Earn](dynamic_programming/delete_and_earn.py)
 
 * [Algorithms](algorithms)
   * [sub rectangle sum | O(1) sub sum, image processing](algorithms/subrectangle_sum.cpp)
