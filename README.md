@@ -21,6 +21,7 @@ codes for programming challenges and practice problems
     * [domino and trimino tiling](dynamic_programming/domino_trimino_tiling.cpp)
     * [Maximum Total Spell Damage](dynamic_programming/maximum_total_spell_damange.py)
     * [Maximum Product Subarray](dynamic_programming/max_product_subarray.py)
+    * [Maximum Sum Circular Subarray](dynamic_programming/max_sum_circular_subarray.py)
   * Others
     * [non prime sum sequence](dynamic_programming/non_prime_sum_sequence.cpp)
     * [house robber | max sum without both adjacent values](dynamic_programming/house_robber.cpp)
